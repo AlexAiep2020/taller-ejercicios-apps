@@ -1,0 +1,73 @@
+main {
+    position: center;
+    width: 600px;
+    height: 450px;
+    background: #F2FCFF;
+    border: 2px solid #C3F1FF;
+    box-sizing: border-box;
+    border-radius: 30px;
+
+}
+
+input {
+    width: 500px;
+    height: 80px;
+    background: #FFFFFF;
+    border: 1px solid #C3F1FF;
+    box-sizing: border-box;
+    border-radius: 39.5px;
+    text-align: center;
+    font-size: 24px;
+   
+
+
+}
+
+button {
+    background: #5AD2AE;
+    border: 1px solid #469F85;
+    box-sizing: border-box;
+    border-radius: 39.5px;
+    width: 500px;
+    height: 80px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #AFAFAF;
+}
+
+::placeholder {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #5AD2AE;
+    text-align: center
+}
+
+h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 49px;
+    color: #5AD2AE;
+    text-align: center
+}
+
+button:hover{
+    background:#2fbd9e;
+}
